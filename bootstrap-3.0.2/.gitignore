@@ -1,0 +1,7 @@
+.ruby-version
+
+*.err
+*.rej
+*.swo
+*.swp
+*.zip
